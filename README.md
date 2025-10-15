@@ -64,3 +64,6 @@
 * various changes such as fonts etc.
 * translated into English - Language ENG
 
+  ### extract package to root program folder
+  ### compiled with Visual Studio Insider 2026
+
