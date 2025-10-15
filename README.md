@@ -69,5 +69,6 @@
 * removed obsolete code
 * various changes such as fonts etc.
 * translated into English - Language ENG
-  ### compiled with Visual Studio Insider 2026
+
+### Compiled with Visual Studio Insider 2026
 
