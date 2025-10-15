@@ -1,5 +1,6 @@
 # YTDLGUI 1.4 Demo Image
 ![cover](https://i.imgur.com/kiIy7Ig.png)
+
 [sabpprook](https://github.com/sabpprook/YTDLGUI)
 
 # YTDLGUI 1.5 Demo Image
