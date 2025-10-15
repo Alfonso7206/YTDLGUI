@@ -6,7 +6,9 @@
 # YTDLGUI 1.5 Demo Image
 <img width="795" height="520" alt="YTDLGUI_sbG8wfns6K" src="https://github.com/user-attachments/assets/26c405d9-400b-4bb5-8efa-d8e50fb047bf" />
 
-# YTDLGUI 1.4
+-----------------------------------------------------------------------
+
+# YTDLGUI 1.4 Legenda
 
 ## Video Download
 * Download Mode
@@ -51,8 +53,6 @@
 * Chinese
 
 ## Updates and changes Version 1.5
-<img width="665" height="351" alt="explorer_CkiXUPPnCs" src="https://github.com/user-attachments/assets/04c4f988-06b6-4daa-9faf-42b368b0d533" />
-
 
 * edit listview and add thumbnail
 * added drag n drop (links can be dragged from the browser to the list)
@@ -69,9 +69,5 @@
 * removed obsolete code
 * various changes such as fonts etc.
 * translated into English - Language ENG
-
-  ### extract packages to root program folder
-  <img width="600" height="300" alt="explorer_CkiXUPPnCs" src="https://github.com/user-attachments/assets/65ff920d-1091-4a6b-933b-6614dd038b98" />
-
   ### compiled with Visual Studio Insider 2026
 
