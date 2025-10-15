@@ -3,9 +3,6 @@
 ## Demo Image
 ![cover](https://i.imgur.com/kiIy7Ig.png)
 
-## Main Program 1.4
-* [YTDLGUI.exe](https://github.com/sabpprook/YTDLGUI/releases/latest/download/YTDLGUI.exe)
-
 ## Video Download
 * Download Mode
 
