@@ -1,5 +1,8 @@
 # YTDLGUI 1.4
 [sabpprook](https://github.com/sabpprook/YTDLGUI)
+# YTDLGUI 1.5
+<img width="795" height="520" alt="YTDLGUI_sbG8wfns6K" src="https://github.com/user-attachments/assets/26c405d9-400b-4bb5-8efa-d8e50fb047bf" />
+
 ## Demo Image
 ![cover](https://i.imgur.com/kiIy7Ig.png)
 
