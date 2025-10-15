@@ -46,7 +46,8 @@
 * Chinese
 
 ## Updates and changes Version 1.5
-<img width="795" height="520" alt="YTDLGUI_sbG8wfns6K" src="https://github.com/user-attachments/assets/7db83788-6868-49a0-bcad-d11d181642be" />
+<img width="665" height="351" alt="explorer_CkiXUPPnCs" src="https://github.com/user-attachments/assets/04c4f988-06b6-4daa-9faf-42b368b0d533" />
+
 
 * edit listview and add thumbnail
 * added drag n drop (links can be dragged from the browser to the list)
@@ -64,6 +65,8 @@
 * various changes such as fonts etc.
 * translated into English - Language ENG
 
-  ### extract package to root program folder
+  ### extract packages to root program folder
+  <img width="600" height="300" alt="explorer_CkiXUPPnCs" src="https://github.com/user-attachments/assets/65ff920d-1091-4a6b-933b-6614dd038b98" />
+
   ### compiled with Visual Studio Insider 2026
 
